@@ -40,7 +40,20 @@ mern-admin-dashboard/
 └── package.json
 ```
 
-## 🚀 Getting Started
+🖼️ Screenshots
+📊 Admin Dashboard
+A clean, analytics-ready dashboard with key metrics, user activity, and sales trends.
+![Admin Dashboard Page Screenshot](assets/dashboard.jpg)
+
+🛍️ Products Page
+Manage your inventory with powerful filtering, category sorting, and stock status visibility.
+![Products Page Screenshot](assets/products.jpg)
+
+⚙️ Settings Page
+Update account information, toggle themes, and manage app preferences securely.
+![Settings Page Screenshot](assets/settings.jpg)
+
+##  Getting Started
 
 ### Backend
 ```bash
